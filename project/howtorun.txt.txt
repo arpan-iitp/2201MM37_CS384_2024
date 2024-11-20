@@ -1,0 +1,9 @@
+run server from -> python app.py
+
+in new terminal 
+run frontend to input files -> streamlit run  frontend_input.py
+
+
+after submitting the files the output is generated in the same folder
+1. for seating plan -> csvfile is generated
+2. for attendance sheets-> a dir is created with attendance sheets for different rooms for for different sheets for different days 
